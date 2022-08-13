@@ -1,0 +1,1 @@
+,df[df.who.isin(counts.nlargest(2).index)].head()
